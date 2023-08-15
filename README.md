@@ -2,20 +2,16 @@
 
 ## About Me
 
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
+A simple website that has the user play a little guessing game to learn some fun facts about me!
 
 ### Author: Isai Chaidez
 
-### Links and Resources
-
-* [Code Fellows](https://github.com/codefellows/seattle-code-201w1/tree/main/configs)
-* Provided links
-
 ### Lighthouse Accessibility Report Score
 
-* Provide a screenshot of your score after running a Lighthouse Accessibility report.
+ ![screenshot](/img/screenshot.png)
 
 ### Reflections and Comments
 
-* Consider including the answers to your daily journal and submission questions here
-* This is also a good place to reflect on the tools and resources used and learned
+* This assignment was fairly straightforward. I'm interested in learning more about the different licensing that is provided by GitHub, as well as understanding gitignore files.
+
+* The assignment took me about 30 minutes total to complete. The biggest difficulty was making lighthouse work. My issue was the recursive functions I had created to ensure the user has to input an answer to the prompts. However, I think that prevented Lighthouse from working, so I changed the function to longer be recursive.

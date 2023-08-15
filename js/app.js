@@ -19,7 +19,7 @@ function Question1() {
     incorrectCount++;
   } else {
     alert('Please respond with a \'yes\' or a \'no');
-    Question1();
+    // Question1();
 }
 }
 
@@ -35,7 +35,7 @@ function Question2() {
     correctCount++;
   } else {
     alert('Please respond with a \'yes\' or a \'no')
-    Question2();
+    // Question2();
   }
 } 
 
@@ -58,7 +58,7 @@ function Question3() {
   } else {
 
     alert('Please respond with a \'yes\' or a \'no');
-    Question3();
+    // Question3();
 }
 
 }
@@ -82,7 +82,7 @@ function Question4() {
   } else {
 
     alert('Please respond with a \'yes\' or a \'no');
-    Question4();
+    // Question4();
 }
 
 }
@@ -106,7 +106,7 @@ function Question5() {
   } else {
 
     alert('Please respond with a \'yes\' or a \'no');
-    Question5();
+    // Question5();
 }
 
 }
