@@ -1,0 +1,15 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-size: 35px;
+  padding-bottom: 20px;
+}
+
+p {
+  padding-right: 50%;
+  font-size: small;
+}
+
