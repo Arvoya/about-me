@@ -10,6 +10,16 @@ h1 {
 
 p {
   padding-right: 50%;
-  font-size: small;
+  font-size: medium;
 }
 
+ol {
+
+  list-style-type: lower-roman;
+  font-size: medium;
+  padding-left: 30px;;
+}
+
+footer {
+  margin-top: 50px;
+}
