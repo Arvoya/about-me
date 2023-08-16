@@ -160,9 +160,6 @@ let guessFood = prompt(`Guess another of my favorite foods! You'll have ${5 - j}
 
 
 
-
-
-
 alert(`These are all my favorite foods: ${favFoods}`);
 
 
